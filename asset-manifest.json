@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cga/static/css/main.a633a874.chunk.css",
+    "main.js": "/cga/static/js/main.01ea1cb8.chunk.js",
+    "main.js.map": "/cga/static/js/main.01ea1cb8.chunk.js.map",
+    "runtime-main.js": "/cga/static/js/runtime-main.b81ab860.js",
+    "runtime-main.js.map": "/cga/static/js/runtime-main.b81ab860.js.map",
+    "static/js/2.e072c60d.chunk.js": "/cga/static/js/2.e072c60d.chunk.js",
+    "static/js/2.e072c60d.chunk.js.map": "/cga/static/js/2.e072c60d.chunk.js.map",
+    "index.html": "/cga/index.html",
+    "precache-manifest.f295d34f95974a787943524d6b47b6fd.js": "/cga/precache-manifest.f295d34f95974a787943524d6b47b6fd.js",
+    "service-worker.js": "/cga/service-worker.js",
+    "static/css/main.a633a874.chunk.css.map": "/cga/static/css/main.a633a874.chunk.css.map",
+    "static/media/calculator.svg": "/cga/static/media/calculator.4cb0d520.svg",
+    "static/media/cga_logo_actual_size.svg": "/cga/static/media/cga_logo_actual_size.e055be8d.svg",
+    "static/media/compass.svg": "/cga/static/media/compass.cbbeb4de.svg",
+    "static/media/downloadPrintReport.svg": "/cga/static/media/downloadPrintReport.7b872744.svg",
+    "static/media/facebook.svg": "/cga/static/media/facebook.94ff1c4b.svg",
+    "static/media/graph.svg": "/cga/static/media/graph.5ebef0e4.svg",
+    "static/media/loading.svg": "/cga/static/media/loading.d4e02155.svg",
+    "static/media/method_frequency_infographic.svg": "/cga/static/media/method_frequency_infographic.5e304232.svg",
+    "static/media/mouse-pointer.svg": "/cga/static/media/mouse-pointer.f15ec190.svg",
+    "static/media/rhsc_cga_multi_img_background.png": "/cga/static/media/rhsc_cga_multi_img_background.20f2411a.png",
+    "static/media/rhsc_logo_actual_size.svg": "/cga/static/media/rhsc_logo_actual_size.33837545.svg",
+    "static/media/sector_infographic.png": "/cga/static/media/sector_infographic.1938b429.png",
+    "static/media/spending_infographic.svg": "/cga/static/media/spending_infographic.b4a98fcb.svg",
+    "static/media/twitter.svg": "/cga/static/media/twitter.83692b23.svg",
+    "static/media/youtube.svg": "/cga/static/media/youtube.dd632740.svg"
+  }
+}
